@@ -1,23 +1,23 @@
-# vApp Submission: [Your Project Name]
+# vApp Submission: [soundness]
 
 ## Verification
 ```yaml
-github_username: "your-username"
-discord_id: "123456789012345678"
-timestamp: "2025-01-15"
+github_username: "darwinnasution"
+discord_id: "1219644135447724096"
+timestamp: "2025-08-22"
 ```
 
 ## Developer
-- **Name**: Your Name
-- **GitHub**: @your-username
-- **Discord**: username#1234
+- **Name**: darwin Nasution
+- **GitHub**: @darwinnasution
+- **Discord**: darwinnasution86
 - **Experience**: Brief background
 
 ## Project
 
 ### Name & Category
-- **Project**: Your vApp Name
-- **Category**: identity/defi/social/gaming/infrastructure/other
+- **Project**: vappsoundness
+- **Category**: social
 
 ### Description
 What problem does your vApp solve? What does it do?
